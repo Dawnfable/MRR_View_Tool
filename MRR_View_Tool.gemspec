@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{generate copyright symbol}
   spec.description   = %q{generate copyright symbol}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/Dawnfable/MRR_View_Tool"
   spec.license       = "MIT"
 
 

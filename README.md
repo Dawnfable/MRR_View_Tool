@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+'''ruby
+MRRViewTool::Renderer.copyright 'Matthew R Read', 'All rights reserved'
+'''
 
 ## Development
 
